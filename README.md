@@ -1,2 +1,6 @@
 # jsrockets
-Test script
+HELLO test script
+
+<script type="text/javascript">
+	console.log('hello there');
+</script>
